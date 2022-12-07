@@ -8,11 +8,11 @@ import { Contatos } from "./pages/Contatos"
 export function ApplicationRoutes() {
     return (
         <BrowserRouter>
-            <Navbar/>
+            <Navbar />
             <Routes>
-                <Route path="/" element={<Inicio/>} />
-                <Route path="/informacao" element={<Informacao/>} />
-                <Route path="/beneficios" element={<Beneficios/>} />
+                <Route path="/" element={<Inicio />} />
+                <Route path="/informacao" element={<Informacao />} />
+                <Route path="/beneficios" element={<Beneficios />} />
                 <Route path="/contatos" element={<Contatos />} />
             </Routes>
             <Footer />

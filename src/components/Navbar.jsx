@@ -8,18 +8,18 @@ export function Navbar() {
                 <img className={styles.logo} src="https://cdn-icons-png.flaticon.com/128/5572/5572079.png" alt="desenho de maos uma de uma pessoa preta e outra de uma pessoa branca e uma gota de sangue no meio das duas" />
             </a>
             <ul className={styles.list}>
-            <li className={styles.item}>
-                <Link to="/">Home</Link>
-            </li>
+                <li className={styles.item}>
+                    <Link to="/">Home</Link>
+                </li>
                 <li className={styles.item} >
-                <Link to="/informacao">Informação</Link>
-            </li>
+                    <Link to="/informacao">Informação</Link>
+                </li>
                 <li className={styles.item} >
-                <Link to="/beneficios">Benefícios</Link>
-            </li>
+                    <Link to="/beneficios">Benefícios</Link>
+                </li>
                 <li className={styles.item} >
-                <Link to="/contatos">Contatos</Link>
-            </li>
+                    <Link to="/contatos">Contatos</Link>
+                </li>
             </ul>
         </nav>
     )
