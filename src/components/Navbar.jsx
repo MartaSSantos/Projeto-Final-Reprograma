@@ -17,9 +17,6 @@ export function Navbar() {
                 <li className={styles.item} >
                     <Link to="/beneficios">Benefícios</Link>
                 </li>
-                <li className={styles.item} >
-                    <Link to="/contatos">Contatos</Link>
-                </li>
             </ul>
         </nav>
     )
