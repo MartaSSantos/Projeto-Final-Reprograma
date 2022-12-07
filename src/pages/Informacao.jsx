@@ -66,6 +66,7 @@ export function Informacao() {
                     <p className="discricao"> <ins><span>Homens:</span>de 2 em 2 meses, sendo, no máximo, 4 vezes ao ano.</ins></p>
                     <p className="discricao"> <ins><span>Mulheres:</span> 3 em 3 meses, sendo, no máximo, 3 doações anuais.</ins>
                     </p>
+                    <a className="link-topo" href="#">&#9650;</a>
                 </div>
             </div>
 

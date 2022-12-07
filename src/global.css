@@ -30,7 +30,7 @@ li {
 }
 
 .grid {
-    margin: 10px 20px;
+    margin: 10px 35px;
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(2, 1fr);
@@ -73,4 +73,15 @@ p span {
     text-decoration: none;
     color: #b32900;
     font-weight: bold;
+}
+
+.link-topo {
+    text-decoration: none;
+    color: tomato;
+    background-color: #6f95ff;
+    padding: 7px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    box-shadow: 3px 3px 10px #333;
 }

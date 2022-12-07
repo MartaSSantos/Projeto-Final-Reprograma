@@ -10,6 +10,7 @@ export function Inicio() {
                 <p className="discricao">
                     <span>Uma única doação pode salvar até quatro vidas.</span> Um simples gesto de amor e solidariedade pode gerar muitos sorrisos. Faça sua parte,independentemente de parentesco entre o doador e quem receberá a doação. O sangue é insubstituível e sem ele é impossível viver.
                 </p>
+                <a className="link-topo" href="#">&#9650;</a>
             </div>
         </div>
     )

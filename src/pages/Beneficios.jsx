@@ -27,6 +27,7 @@ export function Beneficios() {
                 <p className="discricao">
                     Doar sangue é um ato de amor ao próximo e a sensação de fazer o bem aos outros afeta positivamente o autor da ação. Quando doamos sangue, ajudamos muitas pessoas que estão necessitando. Mas, embora haja muitos benefícios próprios, faça a doação com o único objetivo de ajudar o próximo!
                 </p>
+                <a className="link-topo" href="#">&#9650;</a>
             </div>
         </div>
     )
