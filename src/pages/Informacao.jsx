@@ -48,7 +48,7 @@ export function Informacao() {
             </div>
             <div className="grid">
                 <h3>Impedimentos definitivos para doar sangue</h3>
-                <img className="foto2" src="https://www.gov.br/saude/pt-br/composicao/saes/sangue/sangue/@@govbr.institucional.banner/dd37f444-e870-4547-8b56-78564219e30d/@@images/3268e91c-8cd5-4fba-aade-5deef573a235.png" alt="homem moreno e mulher branca, e uma gota de sague vermelha" />
+                <img className="foto2" src="https://img.freepik.com/vetores-premium/medico-coletando-amostra-de-sangue-do-paciente-da-ilustracao-isolada-do-vetor-2d-da-veia_151150-9765.jpg" alt="Medico negro coletando amostra de sague de uma mulher de pela branca" />
                 <div className="info">
                     <ul className="discricao">
                         <li>Ter passado por um quadro de hepatite após os 11 anos de idade;</li>
