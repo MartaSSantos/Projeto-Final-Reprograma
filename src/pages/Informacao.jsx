@@ -3,7 +3,7 @@ export function Informacao() {
         <>
             <div class="grid">
                 <h1 className="titulo">Saiba mais sobre doação de sangue!</h1>
-                <img className="foto" src="https://www.gov.br/saude/pt-br/composicao/saes/sangue/imagens/como-doar_sangue-home.png/@@images/5125b2bd-0ce2-4cf3-b615-cd78dafb5ad5.png" alt="" />
+                <img className="foto" src="https://www.gov.br/saude/pt-br/composicao/saes/sangue/imagens/como-doar_sangue-home.png/@@images/5125b2bd-0ce2-4cf3-b615-cd78dafb5ad5.png" alt="desenho de medica negra, com jaleco branco ela tem um cabelo preto curto ondulado" />
                 <div className="info">
                     <h3 className="discricao">Quais são os requisitos para doação de sangue?</h3>
                     <p className="discricao">
@@ -48,7 +48,7 @@ export function Informacao() {
             </div>
             <div className="grid">
                 <h3>Impedimentos definitivos para doar sangue</h3>
-                <img className="foto2" src="https://www.gov.br/saude/pt-br/composicao/saes/sangue/sangue/@@govbr.institucional.banner/dd37f444-e870-4547-8b56-78564219e30d/@@images/3268e91c-8cd5-4fba-aade-5deef573a235.png" alt="" />
+                <img className="foto2" src="https://www.gov.br/saude/pt-br/composicao/saes/sangue/sangue/@@govbr.institucional.banner/dd37f444-e870-4547-8b56-78564219e30d/@@images/3268e91c-8cd5-4fba-aade-5deef573a235.png" alt="homem moreno e mulher branca, e uma gota de sague vermelha" />
                 <div className="info">
                     <ul className="discricao">
                         <li>Ter passado por um quadro de hepatite após os 11 anos de idade;</li>

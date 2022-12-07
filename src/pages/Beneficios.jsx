@@ -2,7 +2,7 @@ export function Beneficios() {
     return (
         <div className="grid">
             <h1 className="titulo">Doar sangue salva vidas e traz benefícios!</h1>
-            <img className="foto" src="https://img.freepik.com/vetores-premium/seis-icones-de-doacao-de-sangue_24877-74507.jpg" alt="" />
+            <img className="foto" src="https://img.freepik.com/vetores-premium/seis-icones-de-doacao-de-sangue_24877-74507.jpg" alt="icones de doação de sangue vermelhos um coração, uma gota de sangue" />
             <div className="info">
                 <p className="discricao"> <span>Hoje em dia se fala muito sobre a doação de sague</span>
                     ,mas você sabia que este ato voluntário e altruísta traz alguns benefícios também para o doador? Veja qui!
