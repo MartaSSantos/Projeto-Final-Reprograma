@@ -6,7 +6,6 @@
 
 h3 {
     color: #40133f;
-
 }
 
 .h3bn {
@@ -15,6 +14,7 @@ h3 {
 
 li {
     color: #b32900;
+    margin-bottom: 10px;
 }
 
 .foto {
@@ -34,7 +34,6 @@ li {
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(2, 1fr);
-
 }
 
 .info {
@@ -42,6 +41,9 @@ li {
     place-self: start;
     place-items: start;
     gap: 20px;
+    text-align: justify;
+    line-height: 1.2em;
+    margin-bottom: 5px;
 }
 
 .discricao {
@@ -83,10 +85,24 @@ p span {
     position: fixed;
     right: 10px;
     bottom: 10px;
-    box-shadow: 3px 3px 10px #333;
+    box-shadow: 3px 3px 10px rgb(113, 113, 113);
 }
 
-.link-topo:hover{
-color: #6f95ff;
-background-color: tomato;
+.link-topo:hover {
+    color: #6f95ff;
+    background-color: tomato;
+}
+
+.botao {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: tomato;
+    color: #6f95ff;
+    border-radius: 4px;
+    box-shadow: 3px 3px 10px rgb(116, 115, 115);
+}
+
+.botao:hover {
+    background-color: #fff;
+    color: tomato;
 }

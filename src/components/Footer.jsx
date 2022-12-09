@@ -9,8 +9,8 @@ export function Footer() {
                 <a href="mailto:martasilvaa325@gmail.com" target="_blank" rel="noopener noreferrer">
                     <img className={styles.icon} src="https://cdn-icons-png.flaticon.com/128/4926/4926635.png" alt="icon de formato de d M" />
                 </a>
-                <a href="https://www.gov.br/saude/pt-br/composicao/saes/sangue/lista-de-hemocentros-no-brasil" target="_blank" rel="noopener noreferrer">
-                    <img className={styles.icon} src="https://cdn-icons-png.flaticon.com/128/1876/1876556.png" alt="icon de contatos" />
+                <a href="https://github.com/MartaSSantos" target="_blank" rel="noopener noreferrer">
+                    <img className={styles.icon} src="https://cdn-icons-png.flaticon.com/128/3128/3128308.png" />
                 </a>
             </div>
         </footer>
