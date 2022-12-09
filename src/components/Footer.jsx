@@ -10,7 +10,7 @@ export function Footer() {
                     <img className={styles.icon} src="https://cdn-icons-png.flaticon.com/128/4926/4926635.png" alt="icon de formato de d M" />
                 </a>
                 <a href="https://github.com/MartaSSantos" target="_blank" rel="noopener noreferrer">
-                    <img className={styles.icon} src="https://cdn-icons-png.flaticon.com/128/3128/3128308.png" />
+                    <img className={styles.icon} src="https://cdn-icons-png.flaticon.com/128/3128/3128308.png" alt="icon de formato de gato na cor preta" />
                 </a>
             </div>
         </footer>

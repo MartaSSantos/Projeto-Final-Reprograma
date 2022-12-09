@@ -51,7 +51,7 @@ export function Informacao() {
                 <img className="foto2" src="https://img.freepik.com/vetores-premium/medico-coletando-amostra-de-sangue-do-paciente-da-ilustracao-isolada-do-vetor-2d-da-veia_151150-9765.jpg" alt="Medico negro coletando amostra de sague de uma mulher de pela branca" />
                 <div className="info">
                     <ul className="discricao">
-                        <li className="testando">Ter passado por um quadro de hepatite após os 11 anos de idade;</li>
+                        <li>Ter passado por um quadro de hepatite após os 11 anos de idade;</li>
                         <li>Evidência clínica ou laboratorial das seguintes doenças transmissíveis pelo sangue:</li>
                         <li>Hepatites B e C, AIDS vírus HIV, doenças associadas ao vírus HTLV I e II e Doenças de Chagas;</li>
                         <li>Uso de drogas ilícitas injetáveis;</li>
