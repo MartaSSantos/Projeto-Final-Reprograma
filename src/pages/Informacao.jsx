@@ -67,7 +67,7 @@ export function Informacao() {
                     <p className="discricao"> <ins><span>Mulheres:</span> 3 em 3 meses, sendo, no máximo, 3 doações anuais.</ins>
                     </p>
                     <a className="link-topo" href="#">&#9650;</a>
-                    <a className="botao" href="https://www.gov.br/saude/pt-br/composicao/saes/sangue/lista-de-hemocentros-no-brasil" target="_blank" rel="noopener noreferrer">Veja onde doar</a>
+                    <a className="botao" href="https://www.gov.br/saude/pt-br/composicao/saes/sangue/lista-de-hemocentros-no-brasil" target="_blank" rel="noopener noreferrer">Veja onde doar em sua região</a>
                 </div>
             </div>
 
