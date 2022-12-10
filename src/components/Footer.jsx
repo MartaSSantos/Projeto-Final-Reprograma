@@ -13,6 +13,7 @@ export function Footer() {
                     <img className={styles.icon} src="https://cdn-icons-png.flaticon.com/128/3128/3128308.png" alt="icon de formato de gato na cor preta" />
                 </a>
             </div>
+            <p className={styles.feito}>Desenvolvido por <span className={styles.feito2}>Marta Santos</span></p>
         </footer>
     )
 }

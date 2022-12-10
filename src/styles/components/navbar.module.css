@@ -24,7 +24,7 @@ margin-right: 1em;
 
 .item a:hover{
     color: #fff;
-border-bottom: 3px double #185b63;
+border-bottom: 5px double #185b63;
 }
 .logo{
     width: 70px;
