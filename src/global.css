@@ -108,3 +108,24 @@ p span {
     border: 2px solid #6f95ff;
     color: tomato;
 }
+
+@media (max-width:480px) {
+.titulo{
+font-size: 35px;
+}
+.grid{
+    display: flex;
+    flex-direction: column;
+}
+
+.botao{
+    width: 100px;
+    height: 50px;
+    font-size: 10px;
+    padding: 5px 10px;
+}
+
+.foto{
+    max-width: 69%;
+}
+}
