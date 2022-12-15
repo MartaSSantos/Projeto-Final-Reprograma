@@ -9,6 +9,7 @@
  <img className="foto" src="https://www.aalpha.net/wp-content/uploads/2021/07/reactjs.gif" alt="gif de animado de react com fundo transparente, com um iconine aimada do react a escrita  react é da cor preta" />
 
 #### Para criar o projeto eu usei o Vite, que é um (gerador de projeto de front-end). Como o meu projeto tem tres paginas Instalei react-router-dom, que é uma dependência para criar rotas no reactjs.
+#### Também usei o mudule CSS que é uma dependencia para otimizar, o uso do CSS
 
 ## O meu projeto é sobre doação de sangue 🩸!
 
