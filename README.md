@@ -13,7 +13,12 @@
 
 ## O meu projeto é sobre doação de sangue 🩸!
 
-#### Eu escolhi fazer o meu projeto sobre doação de sangue porque é uma coisa que eu acreto, eu sou doadora de sangue desde meus 19 anos, e eu sei que seria muito melhor se tivesse muito mais dadores, então fiz uma pagian informativa sobre doação de sangue.
+#### Eu escolhi fazer o meu projeto sobre doação de sangue porque é uma coisa que eu acreto, eu sou doadora de sangue desde meus 19 anos, e eu sei que seria muito melhor se tivesse muito mais dadores, então fiz uma pagiana informativa sobre doação de sangue.
+
+### Doar sangue é um ato de amor, pra quem doa é apenas alguns minutos do tepo, mas quem recebe é uma vida toda de oportunidades de viver é curtir muito essa vida, por isso falo aqui se puder doe sangue doe vida.
+
+<img className="foto" src="https://sp.unifesp.br/epe/images/CSP/USER/imagens/source_1.gif" alt="gif de animado com uma bolsa de sangue vermelha e um coração vermelho" />
+
 
 ### E este foi o resultado! 💁🏾‍♀️ 🥳 🎇 🎆🎊 🎉
  <a className="link" href="https://projeto-final-reprograma-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Vem ver meu projeto lindo</a>
