@@ -124,6 +124,7 @@ font-size: 35px;
     height: 50px;
     font-size: 10px;
     padding: 5px 10px;
+    border: 2px solid rgb(246, 102, 77);
 }
 
 .foto{
@@ -131,6 +132,6 @@ font-size: 35px;
 }
 .link-topo{
     padding: 3px;
-    box-shadow: 3px 3px 10px rgb(222, 218, 218);
+    box-shadow: 3px 3px 10px rgb(179, 169, 169);
 }
 }
