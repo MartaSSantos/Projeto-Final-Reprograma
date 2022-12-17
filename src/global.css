@@ -77,6 +77,10 @@ p span {
     font-weight: bold;
 }
 
+.link:hover{
+color: #6f95ff;
+}
+
 .link-topo {
     text-decoration: none;
     color: tomato;
