@@ -21,4 +21,4 @@
 
 
 ### E este foi o resultado! 💁🏾‍♀️ 🥳 🎇 🎆🎊 🎉
- <a className="link" href="https://projeto-final-reprograma-teal.vercel.app/" target="_blank" rel="noopener noreferrer">Vem ver meu projeto lindo</a>
+ <a className="link" href="https://unique-torrone-e78481.netlify.app/" target="_blank" rel="noopener noreferrer">Vem ver meu projeto lindo</a>
