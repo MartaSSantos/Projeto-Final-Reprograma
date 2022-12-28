@@ -1,5 +1,5 @@
 # Projeto final {Reprograma} !!
-  <img className="foto" src="https://acegif.com/wp-content/uploads/funny-celebrate-56.gif" alt="icones de doação de sangue vermelhos um coração, uma gota de sangue" />
+  <img className="foto" src="https://acegif.com/wp-content/uploads/funny-celebrate-56.gif" alt="gif de celabração" />
 
   #### Eu estou extremamente feliz, eu cheguei na reprograma e não sabia nem ligar o cumputador direito, então hoje poder mostrar meu projeto final dessa jornada incrivel na minha vida é um motivo de muito orgulho para mim, não foi facil mas graças a todo apoio da {Reprograma} e acima de tudo só tenho a agradecer a DEUS que colocou este projeto maravilhoso na minha vida, que me fez chegar até aqui. 
 
