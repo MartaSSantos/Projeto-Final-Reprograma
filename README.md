@@ -15,7 +15,7 @@
 
 #### Eu escolhi fazer o meu projeto sobre doação de sangue porque é uma causa que eu acredito, eu sou doadora de sangue desde meus 19 anos, e eu sei que seria muito melhor se tivesse muito mais doadores, então fiz uma pagina informativa sobre doação de sangue.
 
-### Doar sangue é um ato de amor, pra quem doa é apenas alguns minutos do tepo,  mas para quem recebe é uma vida toda de oportunidades e de viver é curtir muito essa vida, por isso falo aqui se puder doe sangue doe vida.
+### Doar sangue é um ato de amor, pra quem doa é apenas alguns minutos do tempo,  mas para quem recebe é uma vida toda de oportunidades e de viver é curtir muito essa vida, por isso falo aqui se puder doe sangue doe vida.
 
 <img className="foto" src="https://sp.unifesp.br/epe/images/CSP/USER/imagens/source_1.gif" alt="gif de animado com uma bolsa de sangue vermelha e um coração vermelho" />
 
