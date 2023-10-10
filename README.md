@@ -20,5 +20,4 @@
 <img className="foto" src="https://sp.unifesp.br/epe/images/CSP/USER/imagens/source_1.gif" alt="gif de animado com uma bolsa de sangue vermelha e um coração vermelho" />
 
 
-### E este foi o resultado! 💁🏾‍♀️ 🥳 🎇 🎆🎊 🎉
- <a className="link" href="https://unique-torrone-e78481.netlify.app/" target="_blank" rel="noopener noreferrer">Vem ver meu projeto lindo</a>
+
